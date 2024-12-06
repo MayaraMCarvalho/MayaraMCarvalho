@@ -16,9 +16,6 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
 
-      - name: Enable detailed logging
-        run: echo "::set-env name=ACTIONS_STEP_DEBUG::true"
-
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
