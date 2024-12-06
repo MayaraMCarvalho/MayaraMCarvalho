@@ -14,6 +14,9 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 
+![Snake animation](https://github.com/MayaraMCarvalho/MayaraMCarvalho/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 <!--
@@ -30,14 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayaraMCarvalho/MayaraMCarvalho/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MayaraMCarvalho/MayaraMCarvalho/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/MayaraMCarvalho/MayaraMCarvalho/blob/output/ocean.gif" />
-  </picture>
-</div>
-
-
 
