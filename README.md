@@ -1,4 +1,9 @@
 <h1 align="center">🌺Mayara Carvalho🌺</h1>
+<div>
+<a href="https://www.linkedin.com/in/mayara-carvalho-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
 ## Hello, Devs!!
 
 
@@ -10,14 +15,6 @@
 
 
 
-
-
-
-## Contatos:
-
-<div>
-<a href="https://www.linkedin.com/in/mayara-carvalho-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 <!--
 **MayaraMCarvalho/MayaraMCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +38,8 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="https://github.com/MayaraMCarvalho/MayaraMCarvalho/blob/output/ocean.gif" />
   </picture>
 </div>
+
+</div>
+
+  ![Snake animation](https://github.com/MayaraMCarvalho/MayaraMCarvalho/blob/output/github-contribution-grid-snake.svg)
+ </div>
