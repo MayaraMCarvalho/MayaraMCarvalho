@@ -39,8 +39,5 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
-</div>
 
-  ![Snake animation](https://github.com/MayaraMCarvalho/MayaraMCarvalho/blob/output/github-contribution-grid-snake.svg)
- </div>
 
