@@ -23,7 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraMCarvalho&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
-![snake gif](https://github.com/MayaraMCarvalho/MayaraMCarvalho/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MayaraMCarvalho/MayaraMCarvalho/blob/output/github-contribution-grid-snake.svg)
  </div>
 
 
