@@ -22,6 +22,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraMCarvalho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraMCarvalho&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
   
 ![snake gif](https://github.com/MayaraMCarvalho/MayaraMCarvalho/blob/output/github-contribution-grid-snake.svg)
  </div>
