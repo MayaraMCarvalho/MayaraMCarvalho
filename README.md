@@ -62,6 +62,25 @@ Sou desenvolvedora no [Mycon](https://www.mycon.com.br/) e estudante da especial
 </picture>
 </div>
 
+---
+
+## 🚀 Principais Projetos (42 São Paulo)
+
+<p align="center">
+  <a href="https://github.com/MayaraMCarvalho/Libft">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=Libft&theme=outrun&show_icons=true"/>
+  </a>
+  
+  <a href="https://github.com/MayaraMCarvalho/born2beroot">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=born2beroot&theme=outrun&show_icons=true"/>
+  </a>
+  
+  <a href="https://github.com/MayaraMCarvalho/ft_printf">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=ft_printf&theme=outrun&show_icons=true"/>
+  </a>
+</p>
+
+---
 
 
 <!--
