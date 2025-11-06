@@ -64,6 +64,7 @@ Sou desenvolvedora no [Mycon](https://www.mycon.com.br/) e estudante da especial
 
 ---
 
+<!--
 ## 🚀 Principais Projetos (42 São Paulo)
 
 <p align="center">
