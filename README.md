@@ -13,7 +13,7 @@
 </div>
 
 ## 👋 Olá, Devs!!
-Sou desenvolvedora no [Mycon](https://www.mycon.com.br/) e estudante da especialização de Engenharia de Software na [42 São Paulo](https://www.42sp.org.br/), focada em construir uma base sólida em programação e resolução de problemas. Estou explorando o universo do desenvolvimento e cibersegurança, sempre pronta para um novo desafio.
+Sou desenvolvedora no [Mycon](https://www.mycon.com.br/) e estudante da especialização em Engenharia de Software na [42 São Paulo](https://www.42sp.org.br/), focada em construir uma base sólida em programação e resolução de problemas. Estou explorando o universo do desenvolvimento e cibersegurança, sempre pronta para um novo desafio.
 
 * 🔭 Atualmente estou trabalhando nos projetos do currículo da 42.
 * 🌱 Estou aprendendo e aprimorando minhas habilidades em **C, Shell Script, Docker e Cibersegurança**.
