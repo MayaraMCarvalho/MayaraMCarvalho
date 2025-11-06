@@ -67,16 +67,20 @@ Sou desenvolvedora no [Mycon](https://www.mycon.com.br/) e estudante da especial
 ## 🚀 Principais Projetos (42 São Paulo)
 
 <p align="center">
-  <a href="https://github.com/MayaraMCarvalho/Libft">
+  <a href="https://github.com/MayaraMCarvalho/2-ft_malcolm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=ft_malcolm&theme=outrun&show_icons=true"/>
+  </a>
+  
+  <a href="https://github.com/MayaraMCarvalho/42--1_Libft">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=Libft&theme=outrun&show_icons=true"/>
   </a>
   
-  <a href="https://github.com/MayaraMCarvalho/born2beroot">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=born2beroot&theme=outrun&show_icons=true"/>
+  <a href="https://github.com/MayaraMCarvalho/42--5_Fract-ol">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=Fract-ol&theme=outrun&show_icons=true"/>
   </a>
   
-  <a href="https://github.com/MayaraMCarvalho/ft_printf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=ft_printf&theme=outrun&show_icons=true"/>
+  <a href="https://github.com/MayaraMCarvalho/42--6_Minitalk">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=Minitalk&theme=outrun&show_icons=true"/>
   </a>
 </p>
 
