@@ -1,20 +1,43 @@
 <h1 align="center">🌺Mayara Carvalho🌺</h1>
 <div>
+
+<p align="center">
+  <strong>Desenvolvedora de Software | Mycon</strong>
+</p>
+<p align="center">
+  <strong>Estudante da Especialização em Engenharia de Software | 42 São Paulo</strong>
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/mayara-carvalho-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## 👋 Olá, Devs!!
+Sou desenvolvedora no [Mycon](https://www.mycon.com.br/) e estudante da especialização de Engenharia de Software na [42 São Paulo](https://www.42sp.org.br/), focada em construir uma base sólida em programação e resolução de problemas. Estou explorando o universo do desenvolvimento e cibersegurança, sempre pronta para um novo desafio.
 
-## Hello, Devs!!
+* 🔭 Atualmente estou trabalhando nos projetos do currículo da 42.
+* 🌱 Estou aprendendo e aprimorando minhas habilidades em **C, Shell Script, Docker e Cibersegurança**.
+* 💬 Me pergunte sobre: A metodologia da 42, programação em C ou minha jornada de transição de carreira.
+* 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/mayara-carvalho-dev/)
 
-
-
+---
 
 ## Ferramentas e Tecnologias
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Shell Script"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+</p>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+---
 
-
-<h2>🏆 GitHub</h2>
+<h2>🏆 Estatísticas do GitHub</h2>
 </div>
 
 <div align="center">
@@ -36,7 +59,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+</div>
 
 
 
