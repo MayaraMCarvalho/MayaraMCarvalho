@@ -2,9 +2,7 @@
 <div>
 
 <p align="center">
-  <strong>Desenvolvedora de Software | Mycon</strong>
-</p>
-<p align="center">
+  <strong>Desenvolvedora de Software | Mycon</strong><br>
   <strong>Estudante da Especialização em Engenharia de Software | 42 São Paulo</strong>
 </p>
 
@@ -13,28 +11,51 @@
 </div>
 
 ## 👋 Olá, Devs!!
-Sou desenvolvedora no [Mycon](https://www.mycon.com.br/) e estudante da especialização em Engenharia de Software na [42 São Paulo](https://www.42sp.org.br/), focada em construir uma base sólida em programação e resolução de problemas. Estou explorando o universo do desenvolvimento e cibersegurança, sempre pronta para um novo desafio.
+Sou Desenvolvedora de Software no **[Mycon](https://www.mycon.com.br/)** e estudante da especialização em Engenharia de Software na **[42 São Paulo](https://www.42sp.org.br/)**. Minha jornada une a experiência prática do mercado com uma base sólida em algoritmos e resolução de problemas estruturais. Tenho um perfil analítico e estou sempre pronta para um novo desafio no universo do desenvolvimento.
 
-* 🔭 Atualmente estou trabalhando nos projetos do currículo da 42.
-* 🌱 Estou aprendendo e aprimorando minhas habilidades em **C/C++/C#, Shell Script, Docker e Cibersegurança**.
-* 💬 Me pergunte sobre: A metodologia da 42, programação em C ou minha jornada de transição de carreira.
-* 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/mayara-carvalho-dev/)
+* 🔭 **Atualmente trabalhando em:** Projetos do currículo da 42 (como o *SnowCrash*) e no desenvolvimento de soluções escaláveis no Mycon.
+* 🌱 **Aprendendo e aprimorando:** C#, Python, Cibersegurança, Domain-Driven Design (DDD) e AWS Lambda.
+* 💡 **Interesses:** Arquitetura de software, automações, infraestrutura (Linux/Bash) e boas práticas de código.
+* 💬 **Me pergunte sobre:** A imersiva metodologia da 42, transição de carreira, ou programação backend.
+* 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/mayara-carvalho-dev/)
 
 ---
 
 ## 🔧 Ferramentas e Tecnologias
+Organizei as principais tecnologias que utilizo no meu dia a dia de estudos e trabalho:
+
+### 💻 Linguagens
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Shell Script"/>
-  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Shell Script" title="Shell Script"/>
+</p>
+
+### 🛠 Ferramentas & Infraestrutura
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" title="VSCode"/>
+</p>
+
+---
+
+## 🚀 Principais Projetos
+
+Destaque para os meus repositórios que englobam a trilha da 42 São Paulo e meus avanços técnicos:
+
+<p align="center">
+  <a href="https://github.com/MayaraMCarvalho/42-Common_Core">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=42-Common_Core&theme=outrun&show_icons=true"/>
+  </a>
+  <a href="https://github.com/MayaraMCarvalho/42-Advanced">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=42-Advanced&theme=outrun&show_icons=true"/>
+  </a>
 </p>
 
 ---
@@ -63,43 +84,3 @@ Sou desenvolvedora no [Mycon](https://www.mycon.com.br/) e estudante da especial
 </div>
 
 ---
-
-<!--
-## 🚀 Principais Projetos (42 São Paulo)
-
-<p align="center">
-  <a href="https://github.com/MayaraMCarvalho/2-ft_malcolm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=ft_malcolm&theme=outrun&show_icons=true"/>
-  </a>
-  
-  <a href="https://github.com/MayaraMCarvalho/42--1_Libft">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=Libft&theme=outrun&show_icons=true"/>
-  </a>
-  
-  <a href="https://github.com/MayaraMCarvalho/42--5_Fract-ol">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=Fract-ol&theme=outrun&show_icons=true"/>
-  </a>
-  
-  <a href="https://github.com/MayaraMCarvalho/42--6_Minitalk">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=Minitalk&theme=outrun&show_icons=true"/>
-  </a>
-</p>
-
----
-
-
-<!--
-**MayaraMCarvalho/MayaraMCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
