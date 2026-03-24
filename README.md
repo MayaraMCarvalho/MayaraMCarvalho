@@ -1,9 +1,6 @@
 <h1 align="center">🌺ℳ𝒶𝓎𝒶𝓇𝒶 𝒞𝒶𝓇𝓋𝒶𝓁𝒽ℴ🌺</h1>
 <div>
 
-
-
-
 <p align="center">
   <strong>Desenvolvedora de Software | Mycon</strong><br>
   <strong>Estudante da Especialização em Engenharia de Software | 42 São Paulo</strong>
