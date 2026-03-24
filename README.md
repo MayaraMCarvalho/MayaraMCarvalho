@@ -16,7 +16,7 @@
 Sou desenvolvedora no [Mycon](https://www.mycon.com.br/) e estudante da especialização em Engenharia de Software na [42 São Paulo](https://www.42sp.org.br/), focada em construir uma base sólida em programação e resolução de problemas. Estou explorando o universo do desenvolvimento e cibersegurança, sempre pronta para um novo desafio.
 
 * 🔭 Atualmente estou trabalhando nos projetos do currículo da 42.
-* 🌱 Estou aprendendo e aprimorando minhas habilidades em **C, Shell Script, Docker e Cibersegurança**.
+* 🌱 Estou aprendendo e aprimorando minhas habilidades em **C/C++/C#, Shell Script, Docker e Cibersegurança**.
 * 💬 Me pergunte sobre: A metodologia da 42, programação em C ou minha jornada de transição de carreira.
 * 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/mayara-carvalho-dev/)
 
