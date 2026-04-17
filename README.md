@@ -53,10 +53,10 @@ Destaque para os meus repositórios que englobam a trilha da 42 São Paulo e meu
 
 <p align="center">
   <a href="https://github.com/MayaraMCarvalho/5-Snow_Crash">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=Snow Crash&theme=outrun&show_icons=true&v=1"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=5-Snow_Crash&theme=outrun&show_icons=true&v=1"/>
   </a>
   <a href="https://github.com/MayaraMCarvalho/2-ft_malcolm">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=ft_malcolm&theme=outrun&show_icons=true&v=1"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=2-ft_malcolm&theme=outrun&show_icons=true&v=1"/>
   </a>
   <a href="https://github.com/MayaraMCarvalho/42-Common_Core">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MayaraMCarvalho&repo=42-Common_Core&theme=outrun&show_icons=true&v=1"/>
