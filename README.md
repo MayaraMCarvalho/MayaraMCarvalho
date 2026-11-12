@@ -2,7 +2,7 @@
 <div>
 
 <p align="center">
-  <strong>Desenvolvedora de Software | Mycon</strong><br>
+  <strong>Desenvolvedora de Software </strong><br>
   <strong>Estudante da Especialização em Engenharia de Software | 42 São Paulo</strong>
 </p>
 
@@ -13,7 +13,7 @@
 ## 👋 Olá, Devs!!
 Desenvolvedora de Software focada na construção de sistemas backend resilientes e escaláveis. Atualmente, atuo na resolução de problemas de negócio utilizando o ecossistema .NET, Python, automações em nuvem (AWS) e otimização de bancos de dados relacionais. Em paralelo, aprofundo fundamentos de engenharia na 42 São Paulo, onde lido com programação de baixo nível (C/C++), cibersegurança e administração de sistemas UNIX. Valorizo arquitetura limpa, infraestrutura como código e a entrega de software que realmente resolve o problema.
 
-* 🔭 **Atualmente trabalhando em:** Projetos do currículo da 42 (como o *SnowCrash*) e no desenvolvimento de soluções escaláveis no Mycon.
+* 🔭 **Atualmente trabalhando em:** Projetos do currículo da 42 (como o *SnowCrash*) e no desenvolvimento de soluções escaláveis.
 * 🌱 **Aprendendo e aprimorando:** C#, Python, Cibersegurança, Domain-Driven Design (DDD) e AWS Lambda.
 * 💡 **Interesses:** Arquitetura de software, automações, infraestrutura (Linux/Bash) e boas práticas de código.
 * 💬 **Me pergunte sobre:** A imersiva metodologia da 42, transição de carreira, ou programação backend.
