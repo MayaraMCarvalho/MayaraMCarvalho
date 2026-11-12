@@ -1,39 +1,61 @@
-<h1 align="center">🌺ℳ𝒶𝓎𝒶𝓇𝒶 𝒞𝒶𝓇𝓋𝒶𝓁𝒽ℴ🌺</h1>
-<div>
+<h1 align="center">Mayara Carvalho</h1>
 
 <p align="center">
-  <strong>Desenvolvedora de Software </strong><br>
-  <strong>Estudante da Especialização em Engenharia de Software | 42 São Paulo</strong>
+  <strong>Engenheira de Software Back-End (.NET / C# | C/C++ | Python) & AppSec</strong><br>
+  <strong>Especialização Avançada RNCP 7 (Sistemas de Informação, Redes e Cibersegurança) | 42 São Paulo</strong>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mayara-carvalho-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+  <a href="https://www.linkedin.com/in/mayara-carvalho-dev/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-## 👋 Olá, Devs!!
-Desenvolvedora de Software focada na construção de sistemas backend resilientes e escaláveis. Atualmente, atuo na resolução de problemas de negócio utilizando o ecossistema .NET, Python, automações em nuvem (AWS) e otimização de bancos de dados relacionais. Em paralelo, aprofundo fundamentos de engenharia na 42 São Paulo, onde lido com programação de baixo nível (C/C++), cibersegurança e administração de sistemas UNIX. Valorizo arquitetura limpa, infraestrutura como código e a entrega de software que realmente resolve o problema.
+---
 
-* 🔭 **Atualmente trabalhando em:** Projetos do currículo da 42 (como o *SnowCrash*) e no desenvolvimento de soluções escaláveis.
-* 🌱 **Aprendendo e aprimorando:** C#, Python, Cibersegurança, Domain-Driven Design (DDD) e AWS Lambda.
-* 💡 **Interesses:** Arquitetura de software, automações, infraestrutura (Linux/Bash) e boas práticas de código.
-* 💬 **Me pergunte sobre:** A imersiva metodologia da 42, transição de carreira, ou programação backend.
-* 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/mayara-carvalho-dev/)
+## 👋 Olá, Devs!
+
+Engenheira de Software focada na construção de sistemas back-end resilientes, escaláveis e seguros. Atuo no desenvolvimento de APIs REST, workers e microsserviços utilizando o ecossistema **C# / .NET**, **Python**, arquitetura em nuvem (**AWS** e **Azure**), mensageria assíncrona (**SQS/SNS**), automação de esteiras **CI/CD (GitHub Actions)** e otimização de bancos de dados relacionais (**SQL Server** e **PostgreSQL**).
+
+Formada no Common Core da **42 São Paulo** e atualmente na especialização avançada (RNCP 7 / Bac+5), combino experiência em desenvolvimento comercial com uma base sólida de baixo nível (**C/C++**, **Assembly x86_64**), administração de sistemas **Linux/Unix** e **Segurança de Aplicações (AppSec)**.
+
+- 🔭 **Projetos recentes em Cibersegurança & Redes:** Engenharia reversa e exploração de binários (*SnowCrash* e *Rainfall*), autenticação multifator RFC 6238 (*ft_otp*), interceptação de pacotes ARP em C com raw sockets (*ft_malcolm*) e análise de metadados EXIF (*Arachnida*).
+- 🌱 **Aprofundando conhecimentos em:** Application Security (OWASP Top 10, SAST/DAST), Arquitetura Limpa e DDD em .NET 8, Engenharia Reversa (GDB/Assembly) e Sistemas Distribuídos.
+- 💡 **Foco técnico:** Clean Architecture, SOLID, TDD/BDD (xUnit, Moq, Gherkin/Cucumber), DevSecOps e integração TI/TA (Automação Industrial & Software).
+- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/mayara-carvalho-dev/) | Boituva, SP - Brasil
 
 ---
 
 ## 🔧 Ferramentas e Tecnologias
-Organizei as principais tecnologias que utilizo no meu dia a dia de estudos e trabalho:
 
-### 💻 Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40">
+### 💻 Linguagens & Frameworks Back-End
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" alt="C#"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET Core / .NET 8" alt=".NET"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" alt="C"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" alt="C++"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" alt="Python"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" alt="Java"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot" alt="Spring"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash / Shell Script" alt="Bash"/>
+</p>
 
-<br>
+### 🗄️ Bancos de Dados, Cloud & DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server" alt="SQL Server"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" alt="PostgreSQL"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS" alt="AWS"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure" alt="Azure"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions (CI/CD)" alt="GitHub Actions"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux / Unix" alt="Linux"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" alt="Git"/>
+</p>
 
-### 🛠 Ferramentas & Infraestrutura
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40">
 ---
 
-## 🚀 Principais Projetos
+## 🚀 Principais Projetos e Trilhas Técnicas
+> *Nota: Projetos comerciais recentes em C# / .NET, SQL Server e AWS foram desenvolvidos em repositórios corporativos privados. Abaixo estão os repositórios públicos de destaque da formação e especialização em Engenharia de Software e Cibersegurança na 42 São Paulo:*
 
 Destaque para os meus repositórios que englobam a trilha da 42 São Paulo e meus avanços técnicos:
 <p align="center">
@@ -69,5 +91,3 @@ Destaque para os meus repositórios que englobam a trilha da 42 São Paulo e meu
   />
 </picture>
 </div>
-
----
