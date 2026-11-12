@@ -76,18 +76,19 @@ Destaque para os meus repositórios que englobam a trilha da 42 São Paulo e meu
   <a href="https://github.com/MayaraMCarvalho"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayaraMCarvalho&show_icons=true&include_all_commits=true&count_private=true&bg_color=141439&title_color=ffcc00&text_color=8080ff&icon_color=ff1aff&border_color=3b1763" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayaraMCarvalho&layout=compact&langs_count=7&hide=roff,makefile&bg_color=141439&title_color=ffcc00&text_color=ffffff&border_color=3b1763" /></a>
 </div>
 
+ <div align="center">
   <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MayaraMCarvalho/MayaraMCarvalho/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MayaraMCarvalho/MayaraMCarvalho/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/MayaraMCarvalho/MayaraMCarvalho/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>
