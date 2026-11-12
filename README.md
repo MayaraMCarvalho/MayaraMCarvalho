@@ -37,21 +37,13 @@ Organizei as principais tecnologias que utilizo no meu dia a dia de estudos e tr
 
 Destaque para os meus repositórios que englobam a trilha da 42 São Paulo e meus avanços técnicos:
 <p align="center">
-   <a href="https://github.com/MayaraMCarvalho/5-Snow_Crash">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MayaraMCarvalho&repo=5-Snow_Crash&theme=outrun&show_icons=true&v=2"/>
-  </a>
-  <a href="https://github.com/MayaraMCarvalho/2-ft_malcolm">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MayaraMCarvalho&repo=2-ft_malcolm&theme=outrun&show_icons=true&v=2"/>
-  </a>
- </p>
- 
+  <a href="https://github.com/MayaraMCarvalho/5-Snow_Crash"><img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MayaraMCarvalho&repo=5-Snow_Crash&show_icons=true&bg_color=141439&title_color=ffcc00&text_color=8080ff&icon_color=ff1aff&border_color=3b1763" /></a>
+  <a href="https://github.com/MayaraMCarvalho/2-ft_malcolm"><img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MayaraMCarvalho&repo=2-ft_malcolm&show_icons=true&bg_color=141439&title_color=ffcc00&text_color=8080ff&icon_color=ff1aff&border_color=3b1763" /></a>
+</p>
+
 <p align="center">
-  <a href="https://github.com/MayaraMCarvalho/42-Common_Core">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MayaraMCarvalho&repo=42-Common_Core&theme=outrun&show_icons=true&v=1"/>
-  </a>
-  <a href="https://github.com/MayaraMCarvalho/42-Advanced">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MayaraMCarvalho&repo=42-Advanced&theme=outrun&show_icons=true&v=1"/>
-  </a>
+  <a href="https://github.com/MayaraMCarvalho/42-Common_Core"><img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MayaraMCarvalho&repo=42-Common_Core&show_icons=true&bg_color=141439&title_color=ffcc00&text_color=8080ff&icon_color=ff1aff&border_color=3b1763" /></a>
+  <a href="https://github.com/MayaraMCarvalho/42-Advanced"><img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MayaraMCarvalho&repo=42-Advanced&show_icons=true&bg_color=141439&title_color=ffcc00&text_color=8080ff&icon_color=ff1aff&border_color=3b1763" /></a>
 </p>
 
 ---
@@ -59,9 +51,8 @@ Destaque para os meus repositórios que englobam a trilha da 42 São Paulo e meu
 <h2>🏆 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <a href="https://github.com/MayaraMCarvalho">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayaraMCarvalho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&v=1"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayaraMCarvalho&layout=compact&langs_count=7&theme=outrun&v=1"/>
+  <a href="https://github.com/MayaraMCarvalho"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayaraMCarvalho&show_icons=true&include_all_commits=true&count_private=true&bg_color=141439&title_color=ffcc00&text_color=8080ff&icon_color=ff1aff&border_color=3b1763" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayaraMCarvalho&layout=compact&langs_count=7&hide=roff,makefile&bg_color=141439&title_color=ffcc00&text_color=ffffff&border_color=3b1763" /></a>
+</div>
 
   <picture>
   <source
